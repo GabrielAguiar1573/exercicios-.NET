@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\bin\Debug\net9.0\desafio11.exe
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\bin\Debug\net9.0\desafio11.deps.json
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\bin\Debug\net9.0\desafio11.runtimeconfig.json
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\bin\Debug\net9.0\desafio11.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\bin\Debug\net9.0\desafio11.pdb
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\desafio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\desafio11.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\desafio11.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\desafio11.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\desafio11.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\refint\desafio11.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\desafio11.pdb
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\desafio11.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\desafio11\obj\Debug\net9.0\ref\desafio11.dll

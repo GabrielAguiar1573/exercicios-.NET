@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\exemplo05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\exemplo05.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\exemplo05.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\exemplo05.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\bin\Debug\net9.0\exemplo05.exe
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\bin\Debug\net9.0\exemplo05.deps.json
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\bin\Debug\net9.0\exemplo05.runtimeconfig.json
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\bin\Debug\net9.0\exemplo05.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\bin\Debug\net9.0\exemplo05.pdb
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\exemplo05.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\refint\exemplo05.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\exemplo05.pdb
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\exemplo05.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\exemplo05\obj\Debug\net9.0\ref\exemplo05.dll

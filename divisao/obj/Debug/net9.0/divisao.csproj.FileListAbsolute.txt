@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\bin\Debug\net9.0\divisao.exe
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\bin\Debug\net9.0\divisao.deps.json
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\bin\Debug\net9.0\divisao.runtimeconfig.json
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\bin\Debug\net9.0\divisao.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\bin\Debug\net9.0\divisao.pdb
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\divisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\divisao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\divisao.AssemblyInfo.cs
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\divisao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\divisao.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\refint\divisao.dll
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\divisao.pdb
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\divisao.genruntimeconfig.cache
+C:\Users\Aluno\Documents\C sharp\Exercicios\divisao\obj\Debug\net9.0\ref\divisao.dll
